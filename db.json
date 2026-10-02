@@ -1,0 +1,32 @@
+{
+  "pitches": [
+    {
+      "id": "1",
+      "name": "Sân bóng số 01",
+      "price": 200000,
+      "location": "Hà Đông",
+      "type": "Sân 5"
+    },
+    {
+      "id": "2",
+      "name": "Sân bóng số 02",
+      "price": 250000,
+      "location": "Thanh Xuân",
+      "type": "Sân 7"
+    },
+    {
+      "id": "3",
+      "name": "Sân bóng số 03",
+      "price": 180000,
+      "location": "Cầu Giấy",
+      "type": "Sân 5"
+    },
+    {
+      "id": "4",
+      "name": "Sân bóng số 04",
+      "price": 300000,
+      "location": "Hà Đông",
+      "type": "Sân 7"
+    }
+  ]
+}
