@@ -66,6 +66,9 @@ if(type === "0"){
               <th className="px-4 py-2 border border-gray-300 text-left">
                 type
               </th>
+              <th className="px-4 py-2 border border-gray-300 text-left">
+                Giá chơi quá 2 giờ
+              </th>
               
               <th className="px-4 py-2 border border-gray-300 text-left">
                 Thao tác
@@ -82,6 +85,7 @@ if(type === "0"){
               <td className="px-4 py-2 border border-gray-300">{pitche.price}</td>
               <td className="px-4 py-2 border border-gray-300">{pitche.location}</td>
               <td className="px-4 py-2 border border-gray-300">{pitche.type}</td>
+              <td className="px-4 py-2 border border-gray-300">{pitche.price*2}</td>
               <td className="px-4 py-2 border border-gray-300"><button onClick={()=>{handleDelete(pitche.id)}}>Xóa</button></td>
             </tr>
               )

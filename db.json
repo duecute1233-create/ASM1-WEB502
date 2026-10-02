@@ -20,13 +20,6 @@
       "price": 180000,
       "location": "Cầu Giấy",
       "type": "Sân 5"
-    },
-    {
-      "id": "4",
-      "name": "Sân bóng số 04",
-      "price": 300000,
-      "location": "Hà Đông",
-      "type": "Sân 7"
     }
   ]
 }
